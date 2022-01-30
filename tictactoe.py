@@ -180,4 +180,4 @@ def play_game(board_size: int = None):
 
 
 if __name__ == '__main__':
-    play_game(3)
+    play_game()
